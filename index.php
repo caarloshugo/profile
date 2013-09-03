@@ -8,7 +8,7 @@
 			$to       = "carlos.hugo.gonzalez.castell@gmail.com";
 			$subject  = $data["subject"] . " - caarloshugo.info";
 			$message  = $data["name"] . ", "  . $data["message"];
-			$from     = "caarloshugo@gmail.com";
+			$from     = "info@caarloshugo.info";
 			$headers  = "From:" . $from;
 			
 			mail($to, $subject, $message, $headers);
