@@ -221,7 +221,7 @@
 					<div>
 						<div class="row">
 							<div class="12u">
-								<form method="post" action="/#msg">
+								<form method="post" action="/#contact">
 									<div>
 										<div class="row">
 											<div class="6u">
