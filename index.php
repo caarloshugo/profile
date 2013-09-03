@@ -64,7 +64,7 @@
 							<p>
 								Developer, chess player and Linux user.<br/>
 								I currently work in 
-								<a href="http://fundar.org.mx" title="Fundar, Centro de Análisis e Investigación">
+								<a target="_blank" href="http://fundar.org.mx" title="Fundar, Centro de Análisis e Investigación">
 									Fundar, Centro de Análisis e Investigación
 								</a><br/>
 								
